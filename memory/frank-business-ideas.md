@@ -1018,6 +1018,47 @@ ROI: $850 / $29 = 2,932% return
 
 ---
 
+### MainStreet Media: $50K/Month — The Numbers
+
+**To hit $50K NET profit:**
+
+| Avg Revenue/Client | Clients Needed | Monthly Revenue |
+|--------------------|----------------|-----------------|
+| $29 (Starter) | 1,724 | $50,000 |
+| $40 (Mix) | 1,250 | $50,000 |
+| $50 (Mix) | 1,000 | $50,000 |
+| $75 (Mix) | 667 | $50,000 |
+| $100 (Mix) | 500 | $50,000 |
+
+**Realistic mix breakdown:**
+- 60% Starter ($29) = ~$17/client
+- 30% Pro ($89) = ~$27/client  
+- 10% Agency ($249) = ~$25/client
+
+**Weighted avg: ~$23/client**
+
+**So: ~2,200 clients = $50K/mo net profit**
+
+---
+
+**With USA-wide targeting, 2,200 clients is achievable because:**
+- Pool cleaners: 50,000+ businesses
+- HVAC: 100,000+ businesses
+- Pressure washing: 30,000+
+- Dental: 50,000+
+
+That's MILLIONS of potential clients. Even 0.2% conversion = thousands of clients.
+
+---
+
+**Timeline (aggressive):**
+- Month 3: 100 clients
+- Month 6: 500 clients
+- Month 9: 1,000 clients
+- Month 12: 2,200 clients → $50K/mo
+
+---
+
 ### 6. What I Can Research Further
 
 If needed:
