@@ -1,0 +1,115 @@
+Question from Frank: What are the best no-call onboarding alternatives for AI marketing agencies? How to do everything via text/DM/email.
+
+Answer 1:
+
+For AI marketing agencies, a "no-call" onboarding model replaces traditional kickoff calls with high-speed, automated digital workflows using text, DM, and email to collect data and set expectations. This approach prioritizes atomic brevity and asynchronous efficiency to reduce friction for both the agency and the client. [1, 2, 3, 4, 5] 
+Core No-Call Onboarding Alternatives
+The best alternatives center on automated client portals and interactive intake systems that eliminate the need for real-time meetings.
+
+* Self-Service Client Portals: Platforms like [Assembly](https://assembly.com/blog/client-onboarding-software) ($39/mo) and [FuseBase](https://www.reddit.com/r/agency/comments/1lwnfax/best_way_to_communicate_with_clients_thats_feels/) act as a "single source of truth" where clients can sign contracts, pay invoices, and upload assets without a single call.
+* Form-Driven Automation: Use [Paperform](https://paperform.co/) or Typeform to build conversational intake questionnaires. These can trigger automated next steps via [Zapier](https://zapier.com/) or Make.com once submitted.
+* Asset Access Automation: Use Leadsie to bypass the "how-to" calls for granting access to Google Ads, Meta, or Analytics. You send a link; they click and approve.
+* Asynchronous Training: Instead of a "training call," use Scribe to auto-generate step-by-step guides or Loom for 5-minute video walkthroughs that clients can watch on their own time. [6, 7, 8, 9, 10, 11] 
+
+How to Execute via Text/DM/Email
+The transition to a text-first agency requires a structured communication stack to ensure no details are lost.
+
+   1. Direct Payment Trigger: The process begins when a payment is processed (e.g., via Stripe or PayPal), which immediately triggers an automated "Welcome" sequence across preferred channels.
+   2. Omnichannel Messaging: Use platforms like [MessageDesk](https://www.messagedesk.com/blog/best-automated-text-message-services) or ManyChat to manage business texting and Instagram/Facebook DMs. These tools allow for automated "Relays"—if a client DMs a keyword like "START," they are automatically sent their onboarding link.
+   3. AI Email Agents: Deploy AI email assistants (like Carly AI) to monitor your inbox. They can autonomously handle FAQs, schedule follow-up reminders if an intake form isn't finished, and categorize client messages without human intervention.
+   4. Sequential Drip Campaigns: Structure a 7-day automated sequence using Instantly.ai or [ActiveCampaign](https://www.activecampaign.com/).
+   * Day 1 (Email): Personalized intro with a link to the Client Portal.
+      * Day 1 (Text): 6 hours later, a quick SMS confirming the email was received.
+      * Day 3 (Email): Request for specific creative assets or brand guidelines via Content Snare. [10, 12, 13, 14, 15, 16, 17, 18] 
+   
+Recommended Tool Stack for No-Call Agencies [19] 
+
+| Category [7, 10, 14, 15, 20] | Recommended Tool | Why It Works for No-Call |
+|---|---|---|
+| All-in-One Portal | Assembly | Centralizes billing, files, and chat in one branded spot. |
+| Client Messaging | MessageDesk | Shared team SMS inbox with advanced routing and workflows. |
+| Asset Collection | Content Snare | Automates the "chasing" of documents with scheduled reminders. |
+| Bot Automation | ManyChat | Best for converting Instagram/Facebook DMs into onboarding flows. |
+
+Would you like a specific 7-day email and text sequence template tailored for your AI agency's service?
+
+[1] [https://www.youtube.com](https://www.youtube.com/watch?v=MS8uZDP3_xk)
+[2] [https://www.globitalmarketing.com](https://www.globitalmarketing.com/nz/blog/8-tips-for-creating-a-frictionless-client-onboarding-process/)
+[3] [https://www.talentelgia.com](https://www.talentelgia.com/blog/automate-client-onboarding/#:~:text=A%20well%2Dexecuted%20client%20onboarding%20process%20is%20built,so%20clients%20always%20know%20what%20to%20expect.)
+[4] [https://futurefirm.co](https://futurefirm.co/accounting-client-onboarding-software/#:~:text=What%20I%20like%20about%20their%20approach%20to,onboarding%20is%20the%20focus%20on%20removing%20friction.)
+[5] [https://www.myaifrontdesk.com](https://www.myaifrontdesk.com/blogs/revolutionizing-support-practical-examples-of-ai-and-automation-in-customer-service)
+[6] [https://www.reddit.com](https://www.reddit.com/r/agency/comments/1lwnfax/best_way_to_communicate_with_clients_thats_feels/)
+[7] [https://assembly.com](https://assembly.com/blog/client-onboarding-software)
+[8] [https://www.zendesk.com](https://www.zendesk.com/customer/workrise/)
+[9] [https://www.youtube.com](https://www.youtube.com/watch?v=-_Bzwl_dCM0)
+[10] [https://moz.com](https://moz.com/blog/client-onboarding-tools-seo-agencies)
+[11] [https://www.youtube.com](https://www.youtube.com/watch?v=30cJ9x3th6o)
+[12] [https://www.youtube.com](https://www.youtube.com/watch?v=iOGwsyRUu8M)
+[13] [https://www.youtube.com](https://www.youtube.com/watch?v=tUe_Pziyt_8&t=541)
+[14] [https://agentiveaiq.com](https://agentiveaiq.com/listicles/7-must-have-client-onboarding-bots-for-marketing-agencies)
+[15] [https://www.messagedesk.com](https://www.messagedesk.com/blog/best-automated-text-message-services)
+[16] [https://www.sequenzy.com](https://www.sequenzy.com/email-marketing-for/ai-agent-email)
+[17] [https://www.usecarly.com](https://www.usecarly.com/blog/ai-email-agents-small-business/)
+[18] [https://instantly.ai](https://instantly.ai/blog/how-to-combine-email-text-sales/)
+[19] [https://sbl.so](https://sbl.so/blog/best-ai-sdr-tools-b2b-lead-generation/#:~:text=Best%20AI%20SDR%20Tools%20for%20B2B%20Lead,a%20single%20human%20rep%20doing%20cold%20outreach.)
+[20] [https://assembly.com](https://assembly.com/blog/white-label-software#:~:text=1.%20Assembly:%20Best%20for%20agencies%20needing%20branded%20portals%20with%20AI%20assistance)
+
+Answer 2:
+
+In 2026, many AI-native agencies are adopting a "No-Call" or Asynchronous Onboarding model to maximize efficiency and respect client time. This approach replaces the traditional 60-minute kickoff call with a series of automated, structured digital touchpoints. [1, 2, 3, 4] 
+1. High-Speed No-Call Alternatives
+Instead of a call, use these three primary "Async" formats to gather information:
+
+* AI-Powered Client Portals: Tools like [Zite](https://www.zite.com/blog/client-onboarding-software) ($19/mo) or Rocketlane allow you to create a branded "home base" for the client. The AI generates a custom checklist and document uploader so the client can submit assets (logos, hex codes) in their own time.
+* Tiered Questionnaires: Rather than one long form, send three "micro-forms" over 48 hours.
+* Form 1: Business vitals & goals.
+   * Form 2: Target audience & competitors.
+   * Form 3: Brand voice & "off-limits" topics.
+* Video Walkthroughs (Loom/CloudApp): Record a 3-minute video explaining the project roadmap. Ask the client to reply with a "👍" or a short text comment once they've reviewed it. [3, 5, 6, 7, 8] 
+
+2. The "Text/DM/Email Only" Workflow
+To execute this, you must automate the "triggers" so the process never stalls. [9, 10] 
+
+| Step [11, 12, 13, 14, 15] | Action | Platform/Tool |
+|---|---|---|
+| 1. Trigger | Payment is received or contract is signed. | Stripe / Docusign |
+| 2. Welcome | Automated Email & SMS: "Welcome! Here is your portal link." | MessageDesk[](https://www.messagedesk.com/blog/best-automated-text-message-services) / Salesmsg |
+| 3. Access | Client uses a secure form to provide Meta/Google access. | PandaDoc / Zite |
+| 4. Setup | AI Agent creates their Slack channel and Trello/ClickUp board. | Zapier / Make[](https://niumatrix.com/ai-automation-tools-for-marketers/) |
+| 5. Confirmation | DM/Text: "All systems green. Your first content draft arrives Friday." | SimpleTexting |
+
+3. Best Tools for Async Onboarding [16] 
+
+* Zite ($19/mo): Best for creating AI-powered client portals without coding. It handles forms, task tracking, and document uploads in one unified space.
+* MessageDesk ($14/mo+): Best for "operational texting." It allows your team to use a shared inbox and set up "Relays" (automated text replies) based on keywords like "START" or "FORM".
+* Dock ($350/mo): A premium option for agencies that want a highly polished, shared workspace where clients can see the project's real-time progress.
+* [Carly AI](https://www.usecarly.com/blog/ai-email-agents-small-business/) (Varies): Allows you to set up "AI Email Agents" that can autonomously monitor your inbox, answer client questions, and follow up on missing documents. [5, 17, 18, 19, 20] 
+
+4. How to Handle "Pushback"
+If a client asks for a call, use this script to maintain your async boundary:
+
+"We've found that moving to an asynchronous model allows our team to spend 100% of our time on your marketing results rather than in meetings. This portal will keep you updated 24/7. If you have an urgent question, just text us here—we respond in under [X] hours!"
+
+Would you like a list of common onboarding hurdles (like Meta Business Suite access) and the exact text messages to send to fix them?
+
+[1] [https://www.youtube.com](https://www.youtube.com/watch?v=4eDYSkvqeJ0)
+[2] [https://kroolo.com](https://kroolo.com/blog/automate-client-onboarding)
+[3] [https://www.socialmediaexaminer.com](https://www.socialmediaexaminer.com/how-to-onboard-social-media-marketing-clients-checklist-consultants/)
+[4] [https://www.youtube.com](https://www.youtube.com/watch?v=GzEbnZo-Cvw#:~:text=Automating%20client%20onboarding%20with%20a%20single%20AI,can%20be%20shortened%20to%20approximately%20three%20minutes.)
+[5] [https://www.zite.com](https://www.zite.com/blog/client-onboarding-software)
+[6] [https://www.dock.us](https://www.dock.us/library/customer-onboarding-software)
+[7] [https://thedigitalprojectmanager.com](https://thedigitalprojectmanager.com/tools/best-ai-agency-management-system/#:~:text=Why%20I%20picked%20Rocketlane:%20Rocketlane%20specializes%20in,keep%20your%20clients%20informed%20without%20manual%20effort.)
+[8] [https://www.zite.com](https://www.zite.com/blog/client-onboarding-software#:~:text=What%20it%20does:%20Zite%20is%20an%20AI%2Dpowered,onboarding%20portal%20tailored%20to%20your%20exact%20workflow.)
+[9] [https://www.youtube.com](https://www.youtube.com/watch?v=iOGwsyRUu8M)
+[10] [https://www.reddit.com](https://www.reddit.com/r/SocialMediaMarketing/comments/1gu1er6/how_do_you_onboard_a_new_client/)
+[11] [https://www.reddit.com](https://www.reddit.com/r/DigitalMarketing/comments/1gruwvj/how_is_your_client_onboarding_flow/#:~:text=You%20can%20set%20up%20triggers%20based%20on,send%20a%20welcome%20message%20with%20more%20info.)
+[12] [https://seoexpertscompanyindia.com](https://seoexpertscompanyindia.com/white-label-google-ads-management/#:~:text=We%20send%20you%20a%20secure%20Google%20Form,grant%20us%20the%20access%20via%20email%20invites.)
+[13] [https://touchstay.com](https://touchstay.com/blog/digital-marketing-onboarding-process)
+[14] [https://techflow.ai](https://techflow.ai/blog/automating-smart-workflows-with-ai-power---an-introduction-to-make-com-ai-agents)
+[15] [https://blog.hubspot.com](https://blog.hubspot.com/marketing/multi-agent-system-ai#:~:text=When%20you%27re%20ready%20for%20your%20AI%20agents,a%20bunch%20of%20APIs%20works%20for%20me.)
+[16] [https://www.claap.io](https://www.claap.io/blog/asynchronous-communication-tool)
+[17] [https://www.messagedesk.com](https://www.messagedesk.com/blog/best-automated-text-message-services)
+[18] [https://www.usecarly.com](https://www.usecarly.com/blog/ai-email-agents-small-business/)
+[19] [https://www.zite.com](https://www.zite.com/blog/client-onboarding-software#:~:text=What%20it%20does:%20Zite%20is%20an%20AI%2Dpowered,onboarding%20portal%20tailored%20to%20your%20exact%20workflow.)
+[20] [https://www.messagedesk.com](https://www.messagedesk.com/blog/vonage-alternative#:~:text=But%20if%20SMS%20is%20central%20to%20your%20operations%2C%20then%20MessageDesk%20is%20the%20better%20choice.)
+
