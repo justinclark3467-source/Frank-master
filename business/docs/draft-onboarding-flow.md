@@ -46,7 +46,17 @@ Reply with any preferences, vibes, or special offers you want highlighted."
 7. Busy seasons
 8. Pricing range
 9. Top 3 services you offer
-10. Any upcoming promotions"
+10. Any upcoming promotions
+
+### The Big 4 Qualification Questions
+For any lead conversation (DM, email, or call):
+
+1. **Current Spend:** "What are you currently spending on marketing per month?"
+2. **Why Now:** "What made you decide to look into this right now?"
+3. **Decision Maker:** "Besides yourself, is there anyone else who would need to see the proposal before moving forward?"
+4. **Gap Score:** "On a scale of 1-10, how happy are you with the amount of new customers coming from social media today?"
+
+These answer the key qualification criteria no matter how we communicate.
 
 ---
 
