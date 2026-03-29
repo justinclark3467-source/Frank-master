@@ -999,22 +999,22 @@ ROI: $850 / $29 = 2,932% return
 
 ---
 
-### REVENUE PROJECTIONS COMBINED
+### REVENUE PROJECTIONS — REVISED 🇺🇸
 
 | Business | Justin's Goal | Conservative | Timeline |
 |----------|---------------|--------------|----------|
-| **MainStreet Media** | **$30,000/mo** | $5,000-10,000 | 12-18 months |
-| **Letter Subscription** | **$20,000/mo** | $5,000-10,000 | 12-24 months |
-| wife's Insurance Marketing | $2,000-5,000 | $2,000-5,000 | 6 months |
-| Cross-sell (affiliate, etc.) | $5,000-10,000 | $500-2,000 | 12 months |
+| **MainStreet Media** | **$50,000/mo** | $10,000-20,000 | 12-18 months |
+| **Letter Subscription** | **$50,000/mo** | $10,000-20,000 | 12-24 months |
+| wife's Insurance Marketing | $5,000-10,000 | $2,000-5,000 | 6 months |
+| Cross-sell (affiliate, etc.) | $10,000-20,000 | $1,000-5,000 | 12 months |
 
-**JUSTIN'S VISION: $50,000+/month with just MainStreet + Letters**
+**JUSTIN'S VISION: $100,000+/month total**
 
-**Conservative backup: $13,000-27,000+/month**
+**MainStreet alone = $50K/mo** (whole USA, millions of potential clients)
 
 ---
 
-*Note: These are GOALS, not guaranteed. But we aim high.*
+*Note: These are GOALS. We're aiming for $100K/month.*
 
 ---
 
