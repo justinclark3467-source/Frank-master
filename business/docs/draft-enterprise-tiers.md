@@ -20,13 +20,53 @@ Enterprise isn't about location count — it's about SCALE:
 
 ## Enterprise Tiers (Revised)
 
-### Based on MONTHLY REVENUE (not locations)
+### Standard Tiers (Small Business)
+- Starter: $29/mo
+- Pro: $89/mo  
+- Agency: $249/mo
+- Full Service: $500 setup + $99/mo
 
-| Tier | Revenue Range | Price | What They Get |
-|------|---------------|-------|---------------|
-| Business | $500K-2M/mo | $499/mo | Full service, dedicated agent |
-| Enterprise | $2M-10M/mo | $999/mo | Everything + priority + white-label |
-| Enterprise+ | $10M+/mo | Custom | Full team, API, 24/7 support |
+---
+
+### Custom Tier (Enterprise & Large Business)
+**Pricing based on scope:**
+
+| Factor | Options | Impact on Price |
+|--------|---------|-----------------|
+| Scope | 5 posts/mo → 50 posts/mo | +$/post |
+| Platforms | 1 → All (TikTok, IG, FB, YouTube, LinkedIn) | +$/platform |
+| Service Level | Basic → Priority → White-label | +$/tier |
+| Campaign Length | 1 mo → 3 mo → 6 mo → Ongoing | Bulk discount |
+| Extras | SEO, email sequences, review management | +$/add-on |
+
+---
+
+### Custom Pricing Examples
+
+| Client Type | Scope | Service | Length | Price |
+|-------------|-------|---------|--------|-------|
+| Local restaurant | 20 posts/mo, 2 platforms | Basic | Ongoing | $299/mo |
+| Medical practice | 30 posts/mo, all platforms | Priority | 6 mo | $799/mo |
+| Hotel chain | 100 posts/mo, all + email | White-label | 12 mo | $2,500/mo |
+| Hospital system | Full marketing wrap | Enterprise | Ongoing | $10K+/mo |
+
+---
+
+### How It Works
+1. Client fills out scope questionnaire
+2. We generate custom quote based on factors above
+3. Quote includes: setup fee + monthly retainer
+4. 6-month and 12-month contracts get 10-20% discount
+5. White-label adds 30-50% premium
+
+---
+
+### The Enterprise Upsell
+Even 1 custom client at $2K+/mo is worth more than 50 small biz clients.
+- 1 hotel = $2K/mo
+- 50 small biz = $1.5K/mo
+
+A few of these = big money.
 
 **The Problem:** Traditional agencies charge $5K-20K+/mo. Too much for most.
 
