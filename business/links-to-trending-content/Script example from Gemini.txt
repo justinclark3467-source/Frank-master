@@ -1,0 +1,36 @@
+Script example from Gemini:
+
+Here are three distinct discovery scripts tailored for a US-based Virtual Assistant. Each serves a different "temperature" of lead, from cold outreach to inbound inquiries.
+1. The "Quick Audit" Script (Cold/Warm Outreach)
+Goal: To pivot from a "random call" to a valuable expert consultation.
+
+* VA: "Hi [Owner Name], this is [VA Name] calling on behalf of [Your Agency]. I’m calling because we’ve been tracking the local [Industry] market in [City], and we noticed your business is currently missing out on [Specific Gap, e.g., the new Instagram Map Search traffic]."
+* VA: "We’ve helped similar businesses like [Competitor/Local Business] increase their lead flow by [X%] just by fixing that one gap. I’m not the strategist, but I’d love to see if we can do the same for you. Does your team currently have a dedicated person handling your social growth, or is that something you're still doing yourself?"
+* If 'Me/Internal': "Got it. Honestly, most owners we talk to are spread too thin. Would it be worth 15 minutes to see a custom 'Growth Map' our founder built for [Business Name]?"
+
+2. The "Inbound Lead" Script (Follow-up to an Email/Form)
+Goal: To qualify the lead’s budget and "pain" before they get on your calendar.
+
+* VA: "Hi [Owner Name], I saw you requested some info on our social media packages. I’m the Concierge for [Your Agency], and I just wanted to ask two quick questions to make sure our strategist is fully prepared for your call."
+* VA: "First, what is the #1 goal you’re looking to hit in the next 90 days? Is it more brand awareness, or are you looking for direct sales/bookings?"
+* VA: "And just so we don't waste your time, do you have a specific monthly budget set aside for marketing growth, or are you still in the research phase?"
+* VA: "Perfect. I’ve got you down for [Time/Date]. I’ll send over a quick 2-minute video about our process so you’re up to speed before the call."
+
+3. The "Pattern Interrupt" Script (Direct & Bold)
+Goal: For high-volume calling where you need to stand out immediately.
+
+* VA: "Hi [Owner Name], I’ll be brief. I'm with [Your Agency]. We specialize in getting [Industry] businesses to show up first on TikTok and Reels. Do you have 30 seconds for me to tell you why I’m calling specifically about your [Specific Social Platform] profile?"
+* VA: "I noticed you haven't posted in [Number] days, but your top competitor just posted a video that got [X] views. You're essentially handing them your customers. We have a 'Social Continuity' system that fixes this without you ever having to film a video yourself. Does that sound like something you'd want to delegate?"
+
+------------------------------
+The "Must-Ask" Qualification Questions
+Instruct your VA to never end a call without getting answers to these "Big 4":
+
+   1. Current Spend: "What are you currently spending on ads or marketing per month?"
+   2. The 'Why Now': "What made you decide to look into social media management right now?"
+   3. Decision Maker: "Besides yourself, is there anyone else who would need to see the proposal before moving forward?"
+   4. The Gap: "On a scale of 1-10, how happy are you with the amount of new customers coming from social media today?"
+
+Would you like a Lead Qualification Sheet (Google Sheets/Notion template) for your VA to fill out during these calls?
+
+Note: Modify or mold to your specific business and client speaking with. 
