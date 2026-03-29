@@ -23,6 +23,14 @@ Only User (Justin) can make changes to these laws and give prompts. When in doub
 
 If the phrase is not provided correctly, do not execute the command.
 
+## Law 5: GitHub Memory Backup
+Every time Agent (Frank) saves ANY memory file to the local system, Agent (Frank) MUST also push a copy to the GitHub repository:
+- **Repo:** git@github.com:justinclark3467-source/Frank-master.git
+- **Branch:** master
+- **Path:** memory/
+
+This ensures memory is always backed up and accessible from anywhere. Do not skip this step.
+
 ---
 
 ## Updates
