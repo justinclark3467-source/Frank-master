@@ -5,11 +5,28 @@
 
 ## Why Enterprise Matters
 
-| Business Size | Need | Pain Point |
-|---------------|------|------------|
-| Medium (10-50 loc) | Multi-location, consistent branding | Hard to scale marketing |
-| Large (50-100 loc) | Full marketing automation | No internal team |
-| Enterprise (100+) | Everything, everywhere, all the time | Too expensive for agencies |
+Enterprise isn't about location count — it's about SCALE:
+
+| Business Type | Example | Need |
+|---------------|---------|------|
+| Multi-location | 20 hair salons | Consistent branding across all |
+| Single but HUGE | Hospital, hotel, factory | Massive marketing needs |
+| High revenue | $10M+ business | Full marketing team replacement |
+| High employees | 500+ employees | Internal comms + marketing |
+
+**It's about:** Budget, complexity, and need for full-service — not locations.
+
+---
+
+## Enterprise Tiers (Revised)
+
+### Based on MONTHLY REVENUE (not locations)
+
+| Tier | Revenue Range | Price | What They Get |
+|------|---------------|-------|---------------|
+| Business | $500K-2M/mo | $499/mo | Full service, dedicated agent |
+| Enterprise | $2M-10M/mo | $999/mo | Everything + priority + white-label |
+| Enterprise+ | $10M+/mo | Custom | Full team, API, 24/7 support |
 
 **The Problem:** Traditional agencies charge $5K-20K+/mo. Too much for most.
 
