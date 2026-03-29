@@ -187,6 +187,18 @@ Located in: /root/.openclaw/workspace/memory/frank-laws.md
 - No extra software needed - WE are the AI
 - Focus on pool cleaning + pressure washing as first niches
 
+## March 29, 2026 - Evening Session
+- Created enterprise tiers doc with custom pricing model
+- Added campaign types (rebrand, new location, product launch, etc.)
+- Added dynamic pricing factors (duration, platforms, ad mgmt, urgency)
+- Created full client questionnaire for quotes
+- Pricing: $5/post launch (aggressive), scales with clients
+- Video tool costs (A2E): ~$25/mo for 3600 credits
+- Scaling: more clients = lower cost per post (margins improve)
+- Carolyn's rebrand example: $720 quote (60 posts × $5 + platforms + add-ons)
+- P&L analysis: 100 clients = $13K+/mo profit at $5/post
+- Decision: Show line items if client asks (transparency builds trust)
+
 ## STARTUP REMINDER
 - Keep Telegram responses SHORT to conserve API tokens
 - Be conversational, not verbose
