@@ -57,11 +57,63 @@ Enterprise isn't about location count — it's about SCALE:
 
 ---
 
+### Dynamic Pricing Factors
+
+| Factor | Options | Pricing |
+|--------|---------|---------|
+| **Duration** | 30 / 45 / 60 / 90 / 120 days | $/day (bulk discount) |
+| **Platforms** | 1 / 2 / 3 / 4 / 5+ | +$/platform/mo |
+| **Ad Spend Mgmt** | Client pays ads, we manage | 10-15% of ad spend |
+| **Ad Creative** | We create ads too | +$200-500/campaign |
+| **Frequency** | 3x/week / daily / 2x daily | +$/post |
+| **Analytics** | Basic reports / Full dashboard | +$/mo |
+| **Urgency** | Standard / Rush (+25%) / Emergency (+50%) | Urgency premium |
+
+---
+
+### Example Quotes
+
+**Example 1: Restaurant - Holiday Promo**
+- Duration: 45 days (leading to Christmas)
+- Platforms: TikTok + IG + FB (3)
+- Posts: 3x/week = ~18 posts
+- Ad spend mgmt: Client has $5K/mo budget (we take 15%)
+- Total: $450 (posts) + $750 (mgmt) = $1,200/mo
+
+**Example 2: Dental - New Location**
+- Duration: 60 days (grand opening)
+- Platforms: All (5)
+- Posts: Daily = ~60 posts
+- Ad spend: $10K/mo (we take 12%)
+- Total: $1,200 (posts) + $1,200 (mgmt) = $2,400/mo
+
+**Example 3: Hotel - Summer Rebrand**
+- Duration: 90 days
+- Platforms: All + Google Ads
+- Posts: Daily + email sequence
+- Ad creative: We create all
+- Total: $3,000+/mo
+
+---
+
+### Ad Management Fee Structure
+
+| Ad Spend | Our Fee |
+|----------|---------|
+| Under $5K/mo | 15% of ad spend |
+| $5K-15K/mo | 12% of ad spend |
+| $15K-50K/mo | 10% of ad spend |
+| Over $50K/mo | 8% of ad spend |
+
+Client pays ad platform directly. We add our management fee on top.
+
+---
+
 ### How It Works (Revised)
-1. Client identifies their GOAL (not just "posts")
-2. We scope the campaign type + volume + platforms
+1. Client identifies their GOAL + budget
+2. We scope: duration + platforms + frequency + ads
 3. Generate custom quote
-4. Quote = base tier + campaign fee + add-ons
+4. Quote = Posts + Platform fees + Ad mgmt + Add-ons
 
 ---
 
