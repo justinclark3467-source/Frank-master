@@ -1059,6 +1059,42 @@ That's MILLIONS of potential clients. Even 0.2% conversion = thousands of client
 
 ---
 
+### COMBINED MATH: $100K/Month Goal
+
+| Business | Target | Price/Unit | Units Needed |
+|----------|--------|------------|--------------|
+| **MainStreet Media** | $50K/mo net | ~$23/client | ~2,200 clients |
+| **Letter Subscription** | $50K/mo net | ~$10/sub | ~5,000 subscribers |
+
+---
+
+### Letter Subscription Math
+
+| Tier | Price | Profit/Sub | Subs Needed (50K) |
+|------|-------|------------|-------------------|
+| Single Letter | $14.99 | ~$10 | 5,000 |
+| Story Package | $24.99 | ~$15 | 3,334 |
+| Family Legacy | $49.99 | ~$35 | 1,429 |
+
+**Realistic mix:** ~$10 profit/sub average
+**Subs needed:** ~5,000
+
+---
+
+### TOTAL COMBINED
+
+| Business | Goal | Units | Timeline |
+|----------|------|-------|----------|
+| MainStreet Media | $50K/mo | ~2,200 clients | 12-18 months |
+| Letter Subscription | $50K/mo | ~5,000 subs | 12-24 months |
+| **COMBINED** | **$100K+/mo** | | 18-24 months |
+
+**$100K/month = $1.2M/year**
+
+That's the target. 🇺🇸
+
+---
+
 ### 6. What I Can Research Further
 
 If needed:
