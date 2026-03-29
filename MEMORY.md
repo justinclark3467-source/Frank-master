@@ -145,6 +145,48 @@ Located in: /root/.openclaw/workspace/memory/frank-laws.md
 - Strategy: Scraping TikTok comments for targeting, no paid ads
 - Launch plan: 1 niche → prove it → scale nationals
 
+## March 29, 2026 - Morning/Afternoon Session
+- Browser was crashing container (Robby's admin warned us)
+- NO MORE browser attempts - use web search only
+- User wants autonomous research on niches
+- Created niche folders: pool-cleaning, hvac, pressure-washing
+- Can't do deep research without browser (TikTok blocks fetch, search hit limit)
+- User gave expert research from Google Gemini
+- Created 4 draft business docs in /business/docs/:
+  - draft-outreach-email.md
+  - draft-onboarding-flow.md
+  - draft-weekly-report.md
+  - draft-pricing-page.md
+- Added Expert insights: Gary Vaynerchuk DVL, Rachel Pedersen Authority Blocks
+- Created folder for trending content links
+- User put Google Gemini research in folder
+- Updated docs with 2026 expert research
+- No-call onboarding: default is email/DM, VA service ready for clients who insist
+- Added "Big 4" qualification questions to onboarding
+- VA services for calls when needed: Zirtual ($599/mo), BELAY ($1,380/mo)
+- No-call onboarding tools (MessageDesk, Zite) NOT needed because WE are the AI
+- Created empty folder for user to put links (business/links-to-trending-content/)
+- User asked questions to Gemini about VA services + no-call alternatives
+- User put 3 new files in folder from Gemini
+- Kept only "Big 4" qualification questions from those - rest overkill
+- First success stories: Carolyn's insurance (pending data), Letter business (not launched yet)
+- MainStreet Media will cover both internal businesses under umbrella
+- Family/team discount: our businesses don't pay for service
+- Committed all to GitHub
+
+## Pricing Tiers (CONFIRMED)
+- $29/mo launch (first 100)
+- $49/mo regular
+- $89/mo Pro
+- $249/mo Agency
+- $500 setup + $99/mo (Full Service with dedicated sub-agents)
+
+## Key Business Decisions
+- Default onboarding: NO CALL (email/DM works)
+- If client insists on call: have VA service ready
+- No extra software needed - WE are the AI
+- Focus on pool cleaning + pressure washing as first niches
+
 ## STARTUP REMINDER
 - Keep Telegram responses SHORT to conserve API tokens
 - Be conversational, not verbose
