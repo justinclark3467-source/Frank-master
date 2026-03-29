@@ -606,7 +606,34 @@ Subscription service generating ALL their content monthly:
 | **Starter Launch** | **$29/mo** (first 100 only!) | 12-15 social posts/month |
 | **Starter Regular** | **$49/mo** | Same as Starter — after 100 clients |
 | **Pro** | **$89/mo** | Social + email sequences + review responses |
+| **Full Service** | **$99/mo + $500 setup** | I do EVERYTHING — full management |
 | **Agency** | **$249/mo** | Unlimited + multi-location |
+
+---
+
+### Full Service Tier — How It Works
+
+**The Concept:**
+- New top-tier: $99/mo + $500 one-time setup
+- I manage their ENTIRE social media presence
+- Create posts daily, track everything, respond to comments/DMs
+- Weekly reports showing leads, clicks, calls
+
+**The Sub-Agent System:**
+- Each Full Service client gets their own sub-agent ("Frank Jr")
+- Sub-agent handles day-to-day content, comments, reporting
+- Main Frank supervises all sub-agents
+- Spawn via: `sessions_spawn` for each client
+
+**The Model:**
+- Client signs up → I spawn a sub-agent for them
+- Sub-agent runs on autopilot with my oversight
+- Can handle 10-50+ clients this way
+
+**Revenue:**
+- 25 clients × $99/mo = $2,475/mo recurring
+- 50 clients × $99/mo = $4,950/mo recurring
+- Plus setup fees = instant cash flow
 
 ### My Reasoning
 
