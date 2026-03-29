@@ -41,6 +41,30 @@ Enterprise isn't about location count — it's about SCALE:
 
 ---
 
+### Campaign Types (What Clients Want)
+
+| Campaign Type | Description | Pricing Impact |
+|---------------|-------------|----------------|
+| General Growth | Ongoing brand building | Base tier |
+| New Location Launch | Grand opening, awareness | +$500-2000 one-time |
+| Product Launch | New service/product reveal | +$500-1500 one-time |
+| Special Offer | Promo, discount, limited time | +$300-1000 one-time |
+| Holiday/Promo | Christmas, Black Friday, etc | +$500-2000 one-time |
+| Rebrand | New name, logo, positioning | Custom (big project) |
+| Seasonal Push | Spring cleaning, summer prep | +$300-1000/season |
+| Event Promo | Webinar, workshop, open house | +$500-1500 one-time |
+| Crisis Control | Reputation management | Premium pricing |
+
+---
+
+### How It Works (Revised)
+1. Client identifies their GOAL (not just "posts")
+2. We scope the campaign type + volume + platforms
+3. Generate custom quote
+4. Quote = base tier + campaign fee + add-ons
+
+---
+
 ### Custom Pricing Examples
 
 | Client Type | Scope | Service | Length | Price |
