@@ -73,6 +73,31 @@ Enterprise isn't about location count — it's about SCALE:
 
 ### Example Quotes
 
+**Example: Carolyn's Insurance Rebrand**
+- Client: King Benefits Insurance Brokerage
+- Scope: 30-day rebrand launch + client notification
+- Platforms: FB, LinkedIn, Instagram (3)
+- Posts: Daily (30)
+- Add-ons: Letter to current clients
+
+| Item | Amount |
+|------|--------|
+| Core (30-day launch) | $1,200 |
+| Email to current clients | $50 |
+| Letter (add-on) | $300 |
+| **TOTAL** | **$1,550** |
+
+Details in quote:
+- Daily posts × 30 days
+- Comments/DMs responded (24hr)
+- UTM tracking + analytics
+- Dedicated call forwarding
+- Client email copy provided
+
+---
+
+### Example Quotes
+
 **Example 1: Restaurant - Holiday Promo**
 - Duration: 45 days (leading to Christmas)
 - Platforms: TikTok + IG + FB (3)
