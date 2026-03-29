@@ -1091,6 +1091,29 @@ That's MILLIONS of potential clients. Even 0.2% conversion = thousands of client
 
 **$100K/month = $1.2M/year**
 
+---
+
+### ADD: Wife's Insurance Company
+
+| Item | Amount |
+|------|--------|
+| Current Revenue | $30,000/mo |
+| Frank's Boost (+15%) | $4,500/mo |
+| **New Total** | **$34,500/mo** |
+
+---
+
+### FINAL COMBINED GOAL
+
+| Business | Monthly Net |
+|----------|-------------|
+| MainStreet Media | $50,000 |
+| Letter Subscription | $50,000 |
+| Wife's Insurance (+15%) | $34,500 |
+| **TOTAL** | **$134,500/mo** |
+
+**$134,500/month = $1.6M/year**
+
 That's the target. 🇺🇸
 
 ---
