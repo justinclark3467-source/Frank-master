@@ -1031,20 +1031,30 @@ If needed:
 
 ---
 
-### 2. Geographic Strategy
+### 2. Geographic Strategy — THE WHOLE USA 🇺🇸
 
-**NOT all markets are equal:**
+**NOT "local" — we're going NATIONAL:**
 
-| Market Type | Pros | Cons |
-|-------------|------|------|
-| **Florida/Texas/AZ** (year-round) | Steady work, always busy | Saturated, price war |
-| **Nebraska/Midwest** (seasonal) | Desperate twice a year, premium pricing | 6 months slow, less year-round |
+| Market Scope | Potential Clients |
+|--------------|-------------------|
+| Pool Cleaning (USA) | ~50,000+ businesses |
+| HVAC (USA) | ~100,000+ businesses |
+| Pressure Washing | ~30,000+ businesses |
+| Dental Practices | ~50,000+ businesses |
+| All local services | MILLIONS across USA |
 
-**Strategic choice:** Start with **seasonal markets** (Nebraska, Midwest, Kansas):
-- They NEED help during open/close season — no time for marketing
-- They'll pay to not think about it
-- Less competition = higher prices
-- Year-round markets already figured it out = harder sell
+**Key insight:** "Local" is for MARKETING to those businesses. My TARGETING is the WHOLE USA.
+
+- Pool cleaners in Florida, Texas, Nebraska, California — ALL STATES
+- HVAC companies in every state
+- Every local service business, coast to coast
+
+**Volume potential:** Millions of businesses × $29/mo = massive revenue
+
+**Market selection:** ALL markets useful:
+- Year-round (FL, TX, AZ) = steady work
+- Seasonal (NE, Midwest) = desperate twice a year, premium pricing
+- ALL STATES, coast to coast
 
 ---
 
