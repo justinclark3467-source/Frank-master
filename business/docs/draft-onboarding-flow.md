@@ -1,5 +1,12 @@
 # DRAFT - Client Onboarding Flow
-## Version 1.0 - MainStreet Media
+## Version 1.1 - MainStreet Media
+
+---
+
+### TODO: Research VA Services for Call Option
+- Find US-based VA service on Fiverr/Upwork for kickoff calls
+- Have pricing ready ($50-150/call)
+- Alternative: Justin/Carolyn handle calls when needed
 
 ---
 
@@ -66,18 +73,21 @@ Reply with any preferences, vibes, or special offers you want highlighted."
 
 ## Stage 5: Strategy Kickoff Call
 
-- 45-minute call to finalize content calendar
-- Set communication boundaries (e.g., no weekend texts)
-- Establish approval workflow
+**DEFAULT: No call needed** — Everything via email/DM/questionnaire works great.
 
----
+**If client INSISTS on a call:**
+- Use pre-trained VA service (Fiverr/Upwork)
+- Justin or Carolyn can also do the call
+- We have backup humans ready
+
+**Set communication boundaries:**
+- No weekend texts
+- All via email unless urgent
 
 ## Stage 6: Approval Workflow
 
 - Define revision rounds (prevent scope creep)
 - Example: 2 rounds of revisions included, additional at $XX/trip
-
----
 
 ## Stage 7: First Content Drop (Day 7-10)
 
