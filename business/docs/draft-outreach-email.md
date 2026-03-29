@@ -50,7 +50,7 @@ P.S. — No time needed from you. I do the work, you just approve.
 
 ---
 
-### Key Principles (From Expert Research)
+### Key Principles (From Expert Research - 2026)
 1. **Short subject line** — under 50 characters
 2. **Personalize** — use their name, their business
 3. **Lead with their pain** — "it's costing you"
@@ -58,6 +58,21 @@ P.S. — No time needed from you. I do the work, you just approve.
 5. **Free value first** — prove it before asking
 6. **Low commitment** — "you lost nothing"
 7. **Clear CTA** — single next step
+
+### Expert-Approved Templates (2026)
+
+**The Audit Approach (Highest Response):**
+- Subject: Complimentary Social Media Audit for [Business Name]
+- Body: Hi [Name], I've been following [Business Name] and love your recent post about [Specific Topic]. I noticed a few quick wins that could boost your engagement by [Metric]. I've put together a brief 5-minute video audit with tips. Would you like me to send it over?
+
+**The Competitor Growth Approach:**
+- Subject: Quick question regarding [Competitor Name]
+- Body: Hi [Name], I recently helped [Competitor] increase their Instagram reach by [X%] in 90 days. Looking at your current profile, I believe we could achieve similar results. Are you open to a brief 10-minute chat?
+
+### 2026 Expert Insights
+- Gary Vaynerchuk: "Interest Media" — algorithms care about interest, not followers
+- Rachel Pedersen: "Authority Blocks" — build expert status with value-first content before pitching
+- Keep emails under 200 words
 
 ---
 

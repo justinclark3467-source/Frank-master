@@ -3,34 +3,43 @@
 
 ---
 
-## Stage 1: Welcome (Day 0)
+## Stage 1: Welcome (Within 1 Hour)
 
 **Send immediately after signup:**
 
 "Hey [Name]! Welcome to MainStreet Media. Here's what happens next:
 
-1. I've got access to your social accounts (or created new ones)
-2. I'm building your content calendar for this month
-3. You'll get your first posts by [Day 3]
+1. I'll send a contract and questionnaire
+2. Get your social access sorted
+3. First posts live within 7-10 days
 
 Reply with any preferences, vibes, or special offers you want highlighted."
 
 ---
 
-## Stage 2: Questionnaire (Day 0-1)
+## Stage 2: Contract & First Invoice
+
+- Use HoneyBook or similar to automate signing and payment
+- Payment before work begins
+
+---
+
+## Stage 3: Discovery Questionnaire (Day 0-1)
 
 **Send to client:**
 
-"Thanks! Before I create content, I need to know a little about you:
+"Thanks! Before I create content, I need to know:
 
-1. What's your business's MAIN service? (pool cleaning, repairs, etc.)
-2. Who is your IDEAL customer? (homeowners? commercial?)
-3. What's your busiest season? (spring/summer/fall/winter)
-4. What makes you DIFFERENT from other [industry] companies?
-5. What's your TYPICAL PRICE RANGE for services?
-6. Any past posts you liked? (send me links)
-7. What's the BEST job you've ever done?
-8. Any no-no words or styles to avoid?"
+1. Brand assets (logos, hex codes)
+2. Target audience details
+3. "Off-limits" topics or words
+4. Your ideal customer profile
+5. What makes you different from competitors
+6. Past posts you liked (send links)
+7. Busy seasons
+8. Pricing range
+9. Top 3 services you offer
+10. Any upcoming promotions"
 
 ---
 
@@ -47,22 +56,46 @@ Reply with any preferences, vibes, or special offers you want highlighted."
 
 ---
 
-## Stage 4: Refine (Day 5)
+## Stage 4: Secure Access
 
-- Client picks favorite OR we try again
-- Set posting schedule (best times for their audience)
+- Use Meta Business Suite or LastPass to get admin rights
+- Don't share sensitive passwords via text
+- Set up Google Drive/Dropbox for shared assets (photos, videos, brand guidelines)
 
 ---
 
-## Stage 5: Ongoing Delivery (Day 7+)
+## Stage 5: Strategy Kickoff Call
 
+- 45-minute call to finalize content calendar
+- Set communication boundaries (e.g., no weekend texts)
+- Establish approval workflow
+
+---
+
+## Stage 6: Approval Workflow
+
+- Define revision rounds (prevent scope creep)
+- Example: 2 rounds of revisions included, additional at $XX/trip
+
+---
+
+## Stage 7: First Content Drop (Day 7-10)
+
+- Create 2-3 posts in DIFFERENT styles (Authority Blocks approach)
+- Let client pick favorite
+
+---
+
+## Stage 8: Refine & Ongoing (Day 14+)
+
+- Client picks favorite OR we try again
+- Set posting schedule (best times for their audience)
 - First of each month: Content calendar preview
-- Posts go live per schedule
 - Weekly check-in: "Any leads this week?"
 
 ---
 
-## Stage 6: Close (Day 14)
+## Stage 9: Close (Day 14)
 
 **If working:**
 "The posts got [X] views, [Y] comments, and [Z] leads. For $29/month, I can do this every month. No contract, cancel anytime. Want to continue?"
@@ -100,6 +133,7 @@ Reply with any preferences, vibes, or special offers you want highlighted."
 
 ---
 
-**STATUS:** DRAFT v1.0
+**STATUS:** DRAFT v1.1 (Updated with 2026 Expert Research)
 **Last Updated:** March 29, 2026
-**Needs:** Testing with real clients, refinement
+**Sources:** Rachel Pedersen's Authority Blocks, Gary Vaynerchuk's Interest Media, industry best practices
+**Needs:** Testing with real clients
