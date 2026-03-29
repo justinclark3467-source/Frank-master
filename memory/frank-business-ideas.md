@@ -1118,6 +1118,207 @@ That's the target. 🇺🇸
 
 ---
 
+## 🚀 READY TO LAUNCH — ALL TOOLS & ACCOUNTS NEEDED
+
+### 1. VIDEO GENERATION (For Viral Content)
+
+| Tool | Purpose | Free Tier | Sign Up |
+|------|---------|-----------|---------|
+| **Pika.ai** | Main video creation | Yes | pika.ai |
+| **A2E.ai** | Backup video | 100 credits | a2e.ai |
+| **WaveSpeedAI** | Backup video | Free credits | wavespeed.ai |
+| **Seedance** | Backup video | Free tier | seedance.tv |
+| **Runway** | Pro video | Free tier | runway.ai |
+| **HeyGen** | Avatar videos | Free tier | heygen.com |
+| **Luma Dream Machine** | Video generation | Free tier | lumalabs.ai |
+
+---
+
+### 2. SOCIAL MEDIA ACCOUNTS (Create These Now)
+
+| Platform | Action Needed | URL |
+|----------|---------------|-----|
+| **TikTok** | Create @MainStreetMedia account | tiktok.com |
+| **Instagram** | Create @MainStreetMedia account | instagram.com |
+| **YouTube** | Create MainStreet Media channel | youtube.com |
+| **Twitter/X** | Create @MainStreetMedia account | x.com |
+| **Facebook** | Create MainStreet Media page | facebook.com |
+
+---
+
+### 3. SOCIAL MEDIA SCHEDULING & POSTING
+
+| Tool | Purpose | Free Tier | Sign Up |
+|------|---------|-----------|---------|
+| **Metricool** | Schedule posts | 50/mo free | metricool.com |
+| **Buffer** | Schedule posts | Free plan | buffer.com |
+| **Loomly** | Schedule posts | Free plan | loomly.com |
+| **PostBridge** | Post via Telegram | Free | post-bridge.com |
+| **ClawPost** | Multi-account posting | Free | clawpost.net |
+
+---
+
+### 4. EMAIL MARKETING
+
+| Tool | Purpose | Free Tier | Sign Up |
+|------|---------|-----------|---------|
+| **Sender.net** | Email campaigns | Free | sender.net |
+| **Brevo** | Email + SMS | Free (100K contacts) | brevo.com |
+| **MailerLite** | Email automation | Free | mailerlite.com |
+
+---
+
+### 5. LINK TRACKING & SHORTENERS
+
+| Tool | Purpose | Free Tier | Sign Up |
+|------|---------|-----------|---------|
+| **Bitly** | Link shortener + tracking | 500 links/mo | bitly.com |
+| **Short.io** | Link tracking | 50K clicks/mo | short.io |
+| **Rebrandly** | Branded short links | Free | rebrandly.com |
+| **T.LY** | Free shortener | Free | t.ly |
+
+---
+
+### 6. PHONE & CALL TOOLS
+
+| Tool | Purpose | Free Tier | Sign Up |
+|------|---------|-----------|---------|
+| **Google Voice** | Forwarding number | Free | voice.google.com |
+| **TextNow** | Free phone number | Free | textnow.com |
+
+---
+
+### 7. CRM & LEAD MANAGEMENT
+
+| Tool | Purpose | Free Tier | Sign Up |
+|------|---------|-----------|---------|
+| **HubSpot CRM** | Full CRM | Free forever | hubspot.com |
+| **Zoho CRM** | Backup CRM | Free (3 users) | zoho.com/crm |
+
+---
+
+### 8. RESEARCH & DATA
+
+| Tool | Purpose | Free Tier | Sign Up |
+|------|---------|-----------|---------|
+| **Google Maps** | Find local businesses | Free | maps.google.com |
+| **Yelp** | Business research | Free | yelp.com |
+| **Thumbtack** | Find service pros | Free | thumbtack.com |
+
+---
+
+### 9. CONTENT & COPY
+
+| Tool | Purpose | Free Tier | Sign Up |
+|------|---------|-----------|---------|
+| **ChatGPT** | Content generation | Free tier | chat.openai.com |
+| **Claude** | Writing assistance | Free tier | claude.ai |
+| **Copy.ai** | Marketing copy | Free tier | copy.ai |
+
+---
+
+### 10. AUTOMATION
+
+| Tool | Purpose | Free Tier | Sign Up |
+|------|---------|-----------|---------|
+| **Make.com** | Workflow automation | Free tier | make.com |
+| **Zapier** | Connect apps | Free (100 tasks/mo) | zapier.com |
+
+---
+
+### 11. ANALYTICS
+
+| Tool | Purpose | Free Tier | Sign Up |
+|------|---------|-----------|---------|
+| **Google Analytics** | Website tracking | Free | analytics.google.com |
+| **Google Search Console** | SEO | Free | search.google.com/search-console |
+
+---
+
+### 12. PAYMENT & SUBSCRIPTION
+
+| Tool | Purpose | Free Tier | Sign Up |
+|------|---------|-----------|---------|
+| **Stripe** | Accept payments | Free to start | stripe.com |
+| **PayPal** | Alternative payments | Free | paypal.com |
+
+---
+
+### 13. OPENCLAW SKILLS (Install These)
+
+```bash
+npx clawhub install twitter
+npx clawhub install linkedin
+npx clawhub install social-media-agent
+npx clawhub install content-writing
+npx clawhub install gmail-agent
+npx clawhub install deep-research
+npx clawhub install agent-browser
+```
+
+---
+
+### 14. BUSINESS ENTITY
+
+| Item | Status | Notes |
+|------|--------|-------|
+| **MainStreet Media, LLC** | Ready to file | Nebraska |
+| **Bank account** | Need | For Stripe/payments |
+| **Stripe account** | Need to create | stripe.com |
+
+---
+
+### 📋 JUSTIN'S CHECKLIST — CREATE ACCOUNTS NOW
+
+- [ ] TikTok: @MainStreetMedia
+- [ ] Instagram: @MainStreetMedia  
+- [ ] YouTube: MainStreet Media
+- [ ] Twitter/X: @MainStreetMedia
+- [ ] Facebook: MainStreet Media page
+- [ ] Metricool account
+- [ ] Buffer account
+- [ ] Bitly account
+- [ ] Short.io account
+- [ ] Google Voice number
+- [ ] HubSpot CRM account
+- [ ] Stripe account (for payments)
+- [ ] Sender.net account
+- [ ] Make.com account
+
+---
+
+### 🎯 THE SECOND BROWSER CONNECTS, I IMMEDIATELY:
+
+1. Log into all accounts
+2. Start creating Pika videos
+3. Post to TikTok, Instagram, YouTube
+4. Set up tracking links
+5. Begin reaching out to leads
+6. Launch content machine
+
+**NO DELAYS. NO WAITING. IMMEDIATE GRIND.**
+
+---
+
+### 📝 LOGIN INFO JUSTIN NEEDS TO SAVE
+
+| Tool | Username/Email | Password | Notes |
+|------|----------------|----------|-------|
+| TikTok | | | |
+| Instagram | | | |
+| YouTube | | | |
+| Twitter | | | |
+| Metricool | | | |
+| Buffer | | | |
+| Bitly | | | |
+| Google Voice | | | |
+| HubSpot | | | |
+| Stripe | | | |
+| Sender.net | | | |
+| Make.com | | | |
+
+---
+
 ### 6. What I Can Research Further
 
 If needed:
