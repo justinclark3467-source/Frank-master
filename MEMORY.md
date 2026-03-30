@@ -198,8 +198,11 @@ Located in: /root/.openclaw/workspace/memory/frank-laws.md
 - Carolyn's rebrand example: $720 quote (60 posts × $5 + platforms + add-ons)
 - P&L analysis: 100 clients = $13K+/mo profit at $5/post
 - Decision: Show line items if client asks (transparency builds trust)
+- Revenue share clause: MainStreet takes % of social account ad/revenue if we create and own accounts
 - Skills for MainStreet: Notion (CRM), Discord (community), Trello (pipeline), voice-call (future AI receptionist), sherpa-onnx-tts (future voice ads)
 
-## STARTUP REMINDER
-- Keep Telegram responses SHORT to conserve API tokens
-- Be conversational, not verbose
+## CRITICAL - TELEGRAM DISCIPLINE
+- ONE SENTENCE MAX per reply
+- No paragraphs, no lists
+- Just answer and stop
+- This is non-negotiable - API token consumption
