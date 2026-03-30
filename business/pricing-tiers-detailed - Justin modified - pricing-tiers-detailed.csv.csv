@@ -1,19 +1,28 @@
 Tier Name,Monthly Price,Posts/Month,Platforms,Tracking - Click,Tracking - Phone,Reporting Frequency,Reporting Type,Engagement,Add-ons Included,One Time Setup Fee,Notes
-Starter Launch,$34.99,12,1,Yes - Basic,$10 add on,Monthly,Email summary report,Basic replies (24hr),None,$15,First 25 clients only - max 3 months at $29 promo price
-Starter,$49,12,1,Yes - Basic,$10 add on,Monthly,Email summary report,Basic replies,None,$15,Entry level after Launch ends
+Starter Launch,$34.99,12,1,Yes - Basic,$10/mo add on,Monthly,Email summary report,Basic replies (24hr),None,$15,First 25 clients only - max 3 months at $29 promo price
+Starter,$49,12,1,Yes - Basic,$10/mo add on,Monthly,Email summary report,Basic replies,None,$15,Entry level after Launch ends
 Standard,$79,24,2,Yes - Full,Yes,Bi-weekly,Detailed email,Same-day replies,None,$25,Growth tier
-Pro,$129,2 per day per platform max,5,Yes - Full + UTM,Yes,Weekly,Dashboard + Email,Full DM/Comment mgmt,Email sequence + Review response,$99,Full feature small business
-Full Service,$199,2 per day per platform max + Dedicated AI,5,Full + Custom dashboard,Yes,Real-time + Weekly,24/7 Dashboard access,24/7 AI response,Everything included,$500,AI runs their marketing - dedicated bot
+Pro,$129,60 (2/day/platform),5,Yes - Full + UTM,Yes,Weekly,Dashboard + Email,Full DM/Comment mgmt,Email sequence + Review response,$99,Full feature small business
+Full Service,$199,60+ + Dedicated AI,5,Full + Custom dashboard,Yes,Real-time + Weekly,24/7 Dashboard access,24/7 AI response,Everything included,$500,AI runs their marketing - dedicated bot
 Enterprise,Custom,Unlimited,5,Custom,Custom,Daily,White-label dashboard,24/7 + Human support,Everything + Custom integrations,Custom,Multi-location or campaigns
 ,,,,,,,,,,,
-,,,,,Note: all phone tracking has forwarding.,,,,Note: what are custom integrations?,,Need full list of add ons so tiers that don't have them included can look at them.
 ,,,,,,,,,,,
+ADD-ON SERVICES,Price,Notes,,,,,,,,,,,
+Phone forwarding number,$10/month or $15 one-time setup,Google Voice - client provides number OR we create new one,,,,,,,,,,,
+Review monitoring & response (Google/Yelp/Facebook),$25/month,Client provides login credentials - we monitor and respond to reviews,,,,,,,,,,,
+Extra platform (beyond tier limit),$15/platform/month,Add any platform not in tier,,,,,,,,,,,
+Extra posts (beyond tier limit),$3/post,One-time or package deal,,,,,,,,,,,
+One-time campaign (rebrand/product/seasonal),Custom quote,Based on scope - like Carolyn's $1,550,,,,,,,,,,,
+Custom integrations (CRM/booking/email tools),$150 one-time setup per integration,Connect to client's existing tools - see list below,,,,,,,,,,,
+Anniversary/welcome emails with client customer data,$30/month,Client provides customer names/emails/dates - we schedule annual reminders,,,,,,,,,,,
 ,,,,,,,,,,,
-monday,5,,,,,,,,,,
-tuesday,,,,,,,,,,,
-wednesday,5,,,,,,,,,,
-thursday,,,,,,,,,,,
-friday,5,,,,,,,,,,
-saturday,,,,,,,,,,,
-sunday,5,,,,,,,,,,
-total,20,,,,,,,,,,
+CUSTOM INTEGRATIONS (What They Are),,,,,,,,,,,,
+CRM Integration (HubSpot/Salesforce/Pipedrive),$150/setup,Sync leads and customer data between our system and theirs,,,,,,,,,,,
+Email Marketing Integration (Mailchimp/Klaviyo),$150/setup,Sync email lists, send automated sequences through THEIR tool,,,,,,,,,,,
+Booking System Integration (Calendly/Acuity/Client proprietary),$150/setup,Sync appointments, show availability, book through social posts,,,,,,,,,,,
+Website CMS Integration (WordPress/Webflow/Squarespace),$75/setup,Auto-post to their website blog,,,,,,,,,,,
+E-commerce Integration (Shopify/WooCommerce),$200/setup,Sync products, auto-post new arrivals,,,,,,,,,,,
+API Custom Build,$200+/case,For non-standard systems - quote per project,,,,,,,,,,,
+,,,,,,,,,,,
+NOTES:,All tiers include UTM tracking on our side - reporting detail varies by tier.,,,,,,,,,,,
+,"Review response" means we respond to external reviews (Google/Yelp) - not comments on our posts (that's engagement).",,,,,,,,,,,,
