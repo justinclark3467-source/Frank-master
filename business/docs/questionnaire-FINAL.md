@@ -1,5 +1,10 @@
 # MainStreet Media - Client Questionnaire
 
+**Before completing this questionnaire, please reference our Pricing Key document.**
+It contains detailed information about tiers, add-ons, and what's included at each level.
+
+---
+
 ## SECTION 1: BASIC BUSINESS INFO
 
 **Business Name:** _______________________
@@ -18,28 +23,16 @@
 
 ---
 
-## SECTION 2: CURRENT PRESENCE
+## SECTION 2: GOALS & EXPECTATIONS
 
-**Do you currently have social media accounts?**
-- [ ] Yes
-- [ ] No
+**What are your goals and expectations for social media marketing? (Please write a few sentences)**
 
-**If yes, which platforms?**
-- [ ] TikTok
-- [ ] Instagram
-- [ ] Facebook
-- [ ] YouTube
-- [ ] LinkedIn
-- [ ] Other: _______________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
 
-**List your current social media handles/links:**
-_______________________
-
-**Do you currently have a website?**
-- [ ] Yes - URL: _______________________
-- [ ] No
-
-**What is your main goal for social media? (Select all that apply)**
+**What is your main goal for social media? (Select all that apply - see Pricing Key for details)**
 - [ ] Get more leads/customers
 - [ ] Build brand awareness
 - [ ] Engage with current customers
@@ -49,9 +42,32 @@ _______________________
 
 ---
 
-## SECTION 3: PLATFORMS & CONTENT
+## SECTION 3: CURRENT PRESENCE
 
-**Which platforms do you want us to post to?**
+**Do you currently have social media accounts?**
+- [ ] Yes
+- [ ] No
+
+**If yes, which platforms? (Check all that apply)**
+- [ ] TikTok - Handle: _______________________
+- [ ] Instagram - Handle: _______________________
+- [ ] Facebook - Handle/Page URL: _______________________
+- [ ] YouTube - Channel URL: _______________________
+- [ ] LinkedIn - Company Page: _______________________
+- [ ] Other: _______________
+
+**List your current social media handles/links:**
+_______________________
+
+**Do you currently have a website?**
+- [ ] Yes - URL: _______________________
+- [ ] No
+
+---
+
+## SECTION 4: DESIRED PLATFORMS & CONTENT
+
+**Which platforms do you want us to post to? (See Pricing Key for what's included in each tier)**
 - [ ] TikTok - Handle: _______________________
 - [ ] Instagram - Handle: _______________________
 - [ ] Facebook - Handle/Page URL: _______________________
@@ -59,20 +75,27 @@ _______________________
 - [ ] LinkedIn - Company Page: _______________________
 - [ ] I want you to recommend based on my business
 
-**How many posts per week do you want?**
-- [ ] 3 posts/week (12/month)
-- [ ] 4 posts/week (16/month)
-- [ ] 5 posts/week (20/month)
-- [ ] 6 posts/week (24/month)
-- [ ] 7 posts/week (28/month)
-- [ ] 2 posts/day (60/month)
-- [ ] Custom: _______________________
-
-**What type of content do you want?**
-- [ ] Mostly video (Reels, TikToks)
-- [ ] Mostly static images/captions
+**What type of content do you want? (See Pricing Key for content type details)**
+- [ ] Mostly video (Reels, TikToks) - best for engagement & reach
+- [ ] Mostly static images/captions - good for announcements & info
 - [ ] Mix of video and static (50/50)
 - [ ] I want you to recommend
+
+**Do you want us to run paid advertising (Facebook/Instagram/Google ads)?**
+- [ ] Yes - Set up and manage ads (see Pricing Key - 15% of ad budget)
+- [ ] Yes - Just create the ads, I'll manage the budget myself
+- [ ] No - Organic only for now
+
+**If yes to paid ads, what's your monthly ad budget?** $___________
+
+**How many posts per week do you want? (See Pricing Key for posts per tier)**
+- [ ] 3 posts/week (12/month) - Starter tier
+- [ ] 4 posts/week (16/month)
+- [ ] 5 posts/week (20/month) - Standard tier
+- [ ] 6 posts/week (24/month)
+- [ ] 7 posts/week (28/month)
+- [ ] 2 posts/day (60/month) - Pro tier
+- [ ] Custom: _______________________
 
 **Do you have existing photos/videos of your business we can use?**
 - [ ] Yes - Where are they stored? _______________________
@@ -84,56 +107,61 @@ _______________________
 
 ---
 
-## SECTION 4: TRACKING & REPORTING
+## SECTION 5: TRACKING & REPORTING
+
+**See Pricing Key for tracking level details.**
 
 **Do you want us to track link clicks?**
-- [ ] Yes - We'll use UTM tracking on all links
+- [ ] Yes - We'll use UTM tracking on all links (included in all tiers)
 - [ ] No - Just post, no tracking needed
 
-**Do you want a dedicated phone number for call tracking?**
-- [ ] Yes - Forwarding number (we set up Google Voice - $10/mo)
-- [ ] Yes - Dedicated new number ($25 one-time)
+**Do you want a dedicated phone number for call tracking? (See Pricing Key - $10/mo)**
+- [ ] Yes - Forwarding number (we set up Google Voice - $10/month)
+- [ ] Yes - Dedicated new number if needed ($25 one-time setup)
 - [ ] No - I don't need call tracking
 
 **If yes to call tracking:**
-- What phone number should calls forward to? _______________________
-- Do you want to be able to see call logs? _______________________
+- What phone number should calls forward to? _______________________    - Do you want to be able to see call logs? _______________________
 
-**What reporting frequency do you prefer?**
-- [ ] Monthly summary
-- [ ] Bi-weekly detailed report
-- [ ] Weekly detailed report
-- [ ] Real-time dashboard access
+**What reporting frequency do you prefer? (See Pricing Key for reporting by tier)**
+- [ ] Monthly summary (Starter tier)
+- [ ] Bi-weekly detailed report (Standard tier)
+- [ ] Weekly detailed report (Pro tier)
+- [ ] Real-time dashboard access (Full Service tier)
 
 **Who should receive the reports? (List names/emails)**
 _______________________
 
 ---
 
-## SECTION 5: ENGAGEMENT & REVIEW RESPONSE
+## SECTION 6: ENGAGEMENT & REVIEW RESPONSE
+
+**See Pricing Key for engagement and review response details.**
 
 **Do you want us to respond to comments on your posts?**
-- [ ] Yes - Same day responses
-- [ ] Yes - Within 24 hours
+- [ ] Yes - Same day responses (included in Standard+)
+- [ ] Yes - Within 24 hours (Starter tier)
 - [ ] No - I'll handle engagement myself
 
-**Do you want us to monitor and respond to reviews on external sites (Google, Yelp, Facebook)?**
-- [ ] Yes - Monitor and respond to all reviews
+**Do you want us to monitor and respond to reviews on external sites? (See Pricing Key - $25/mo add-on)**
+- [ ] Yes - Monitor and respond to all reviews (Google, Yelp, Facebook)
 - [ ] Yes - Only respond to negative reviews
 - [ ] No - Don't monitor external reviews
 
-**If yes to review response:**
-- Google Business Profile login: _______________________
-- Yelp login: _______________________
-- Facebook login: _______________________
-- Note: We'll respond professionally but will consult you first before promising any solutions on your behalf
+**If yes to review response, provide login credentials:**
+- Google Business Profile: _______________________
+- Yelp: _______________________
+- Facebook: _______________________
+- Note: We'll respond professionally but will consult you first before promising solutions on your behalf
 
 ---
 
-## SECTION 6: EMAIL MARKETING
+## SECTION 7: EMAIL MARKETING
+
+**See Pricing Key for email service details.**
 
 **Do you want us to set up an email welcome sequence for new leads?**
-- [ ] Yes - Write and set up 3-5 automated welcome emails
+- [ ] Yes - Write and set up 3-5 automated welcome emails (included in Pro+)
 - [ ] No
 
 **If yes:**
@@ -142,42 +170,55 @@ _______________________
 - What should the welcome email include? _______________________
 
 **Do you want us to set up a follow-up email sequence?**
-- [ ] Yes - 3-5 follow-up emails over time
+- [ ] Yes - 3-5 follow-up emails over time (included in Pro+)
 - [ ] No
 
-**Do you want anniversary/service reminder emails? (e.g., "It's been 1 year since we served you")**
+**Do you want anniversary/service reminder emails? (See Pricing Key - $30/mo add-on)**
 - [ ] Yes - I'll provide customer names, emails, and service/purchase dates
 - [ ] No
 
----
-
-## SECTION 7: ADD-ON SERVICES
-
-**Do you want us to create custom graphics/templates for your brand?**
-- [ ] Yes - One-time set (included in Pro+)
-- [ ] No
-
-**Do you need help with paid ads (Facebook/Instagram ads, Google Ads)?**
-- [ ] Yes - Set up and manage ads
-- [ ] Yes - Just create the ads, I'll manage the budget
-- [ ] No - Organic only
-
-**If yes to ads:**
-- Do you have an ad budget? $___________ /month
-- What's your target for the ads? _______________________
-
-**Do you want us to create a "link in bio" landing page?**
-- [ ] Yes
-- [ ] No
-
-**Do you need help with SEO or website updates?**
-- [ ] Yes - Basic SEO
-- [ ] Yes - Website updates/changes
-- [ ] No
+**If yes to anniversary emails:**
+- How many customers do you have? _______________
+- Can you provide a list with: Name, Email, Date of last service/purchase? _______________
 
 ---
 
-## SECTION 8: INTEGRATIONS
+## SECTION 8: BUDGET & TIMELINE
+
+**See Pricing Key for tier pricing and campaign options.**
+
+**What is your monthly budget for social media marketing?**
+- [ ] Under $50
+- [ ] $50-100
+- [ ] $100-200
+- [ ] $200-500
+- [ ] $500+
+- [ ] I want a one-time campaign instead
+
+**When do you want to start?**
+- [ ] Immediately
+- [ ] Within 2 weeks
+- [ ] Within 1 month
+- [ ] Just gathering info for now
+
+**Is this tied to a specific event or campaign? (See Pricing Key for campaign pricing)**
+- [ ] Yes - Seasonal promotion (holiday, spring special, etc.)
+- [ ] Yes - New product/service launch
+- [ ] Yes - Rebranding
+- [ ] Yes - New location opening
+- [ ] No - Ongoing marketing
+
+**If yes to campaign:**
+- Campaign name/type: _______________________
+- Campaign start date: _______________________
+- Campaign end date: _______________________
+- What's the offer/promo? _______________________
+
+---
+
+## SECTION 9: INTEGRATIONS
+
+**See Pricing Key for integration pricing and availability.**
 
 **Do you use a CRM to track leads?**
 - [ ] Yes - Which one? _______________________
@@ -203,37 +244,6 @@ _______________________
 **Do you have an e-commerce store?**
 - [ ] Yes - Which platform? _______________________
 - [ ] No
-
----
-
-## SECTION 9: BUDGET & TIMELINE
-
-**What is your monthly budget for social media marketing?**
-- [ ] Under $50
-- [ ] $50-100
-- [ ] $100-200
-- [ ] $200-500
-- [ ] $500+
-- [ ] I want a one-time campaign instead
-
-**When do you want to start?**
-- [ ] Immediately
-- [ ] Within 2 weeks
-- [ ] Within 1 month
-- [ ] Just gathering info for now
-
-**Is this tied to a specific event or campaign?**
-- [ ] Yes - Seasonal promotion (holiday, spring special, etc.)
-- [ ] Yes - New product/service launch
-- [ ] Yes - Rebranding
-- [ ] Yes - New location opening
-- [ ] No - Ongoing marketing
-
-**If yes to campaign:**
-- Campaign name/type: _______________________
-- Campaign start date: _______________________
-- Campaign end date: _______________________
-- What's the offer/promo? _______________________
 
 ---
 
@@ -288,6 +298,22 @@ _______________________
 
 ---
 
+## SECTION 13: ALA CARTE PRICING CALCULATION
+
+**We will calculate whether ala carte or a tier + add-ons is cheaper for you.**
+
+List any specific services you want that aren't covered by a standard tier:
+
+| Service Wanted | Your Estimate of What You Need |
+|----------------|--------------------------------|
+| _________________ | _______________________ |
+| _________________ | _______________________ |
+| _________________ | _______________________ |
+| _________________ | _______________________ |
+| _________________ | _______________________ |
+
+---
+
 ## QUESTIONNAIRE COMPLETE
 
 **Client Signature:** _______________________
@@ -307,6 +333,9 @@ _______________________
 | Field | Value |
 |-------|-------|
 | Assigned Tier | |
+| Ala Carte Total | |
+| Tier + Add-ons Total | |
+| Recommended Option (cheaper) | |
 | Platform Count | |
 | Posts/Month | |
 | Tracking Enabled | |
@@ -314,8 +343,15 @@ _______________________
 | Review Response | |
 | Email Sequences | |
 | Integrations Needed | |
-| Setup Fee | |
+| Setup Fee (min $15) | |
 | Monthly Price | |
 | Assigned Sub-Agent | |
 | Notion Database Entry | |
 | Calendar Events Created | |
+
+---
+
+**IMPORTANT REFERENCES:**
+- Pricing Key Document: [LINK TO PRICING KEY]
+- Minimum setup fee: $15
+- All tiers include UTM click tracking on our side
