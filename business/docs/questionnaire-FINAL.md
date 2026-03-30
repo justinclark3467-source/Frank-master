@@ -50,9 +50,9 @@ ________________________________________________________________________________
 
 **If yes, which platforms? (Check all that apply)**
 - [ ] TikTok - Handle: _______________________
-- [ ] Instagram - Handle: _______________________
-- [ ] Facebook - Handle/Page URL: _______________________
-- [ ] YouTube - Channel URL: _______________________
+- [ ] Instagram (Posts & Reels) - Handle: _______________________
+- [ ] Facebook (Posts & Reels) - Handle/Page URL: _______________________
+- [ ] YouTube (Posts & Shorts) - Channel URL: _______________________
 - [ ] LinkedIn - Company Page: _______________________
 - [ ] Other: _______________
 
@@ -69,15 +69,15 @@ _______________________
 
 **Which platforms do you want us to post to? (See Pricing Key for what's included in each tier)**
 - [ ] TikTok - Handle: _______________________
-- [ ] Instagram - Handle: _______________________
-- [ ] Facebook - Handle/Page URL: _______________________
-- [ ] YouTube - Channel URL: _______________________
+- [ ] Instagram Reels - Handle: _______________________
+- [ ] Facebook Reels - Handle/Page URL: _______________________
+- [ ] YouTube Shorts - Channel URL: _______________________
 - [ ] LinkedIn - Company Page: _______________________
 - [ ] I want you to recommend based on my business
 
 **What type of content do you want? (See Pricing Key for content type details)**
-- [ ] Mostly video (Reels, TikToks) - best for engagement & reach
-- [ ] Mostly static images/captions - good for announcements & info
+- [ ] Mostly video (Instagram Reels, Facebook Reels, TikToks, YouTube Shorts) - best for engagement & reach
+- [ ] Mostly static images/carousels (photo slideshows users swipe through) - great for tutorials, before/afters, announcements
 - [ ] Mix of video and static (50/50)
 - [ ] I want you to recommend
 

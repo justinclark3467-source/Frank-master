@@ -70,7 +70,7 @@
 
 ### Pro ($129/mo)
 ✓ 60 posts/month (2/day)  
-✓ All 5 platforms (TikTok, IG, FB, YouTube, LinkedIn)  
+✓ All 5 platforms (TikTok, Instagram Reels, Facebook Reels, YouTube Shorts, LinkedIn)  
 ✓ Full tracking + UTM + phone number  
 ✓ Weekly dashboard + email report  
 ✓ Full DM/Comment management  
@@ -93,7 +93,7 @@
 | Content Type | Description | When to Choose |
 |--------------|-------------|----------------|
 | **Video (Reels/TikToks)** | 15-30 second video clips - best for engagement | Want viral reach, visual demonstration, before/afters |
-| **Static Images** | Photos with captions - good for info | Announcements, promotions, educational tips |
+| **Static Images (Carousels)** | Photo slideshows users swipe through with captions - great for tutorials, step-by-steps, before/afters | Announcements, promotions, educational tips, showing multiple photos in one post |
 | **Mixed** | Combination of video and static | Best of both worlds |
 | **Facebook/Instagram Ads** | Paid advertising setup + management | Want to run paid promos (15% of ad budget) |
 
