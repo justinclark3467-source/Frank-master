@@ -21,7 +21,6 @@ Two parallel storylines running simultaneously:
 | Joey 16 | Greek, + mention of Frank's letter | ✅ DONE |
 
 ## Remaining Batches (To Do)
-- Batch 4: Ma 17 + Joey 17
 - Batch 5: Ma 18 + Joey 18
 - Batch 6: Ma 19 + Joey 19
 - Batch 7: Ma 20 + Joey 20
