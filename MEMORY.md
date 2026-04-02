@@ -8,7 +8,8 @@
 - World's Columbian Exposition, Chicago 1893
 - Outline saved: /root/.openclaw/workspace/stories/STORY2-OUTLINE.md
 - Just Eleanor's letters (to grandmother)
-- 24 letters, 850-950 words each
+- 24 letters, target 1500-1600 words each
+- Letters 1-3 written (1 & 2 in range, 3 is 1759 - needs trimming)
 
 ### Characters
 - BASIL CRAIN — 32, inventor
