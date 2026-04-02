@@ -35,6 +35,12 @@
 
 ---
 
+## Story Ideas Folder (Saved)
+- Location: /root/.openclaw/workspace/story-ideas/
+- Idea 1: THE POTENTIAL TRADE - Fantasy, finite life-energy trading
+- Idea 2: THE PAUSE - Sci-fi, civilization in time gaps
+- Idea 3: THE MEMORY KEEPERS - Historical fantasy, ancient Egypt memory injection
+
 ## Previous Memory (April 1, 2026)
 ## Stories Project - COMPLETE
 - Full collection: 24 Ma letters + 24 Joey letters = 48 stories
