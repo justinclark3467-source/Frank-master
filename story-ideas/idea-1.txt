@@ -1,33 +1,38 @@
-# STORY IDEA 1: THE POTENTIAL TRADE
+# STORY IDEA 1: THE LAST WEIGHT
 
-## Genre: Fantasy / Dark Social Commentary
+## Genre: Fantasy / Western / Weird Fiction
 
 ### Premise
-In the kingdom of Valdren, every person is born with a finite amount of "Potential" - a visible, quantifiable energy that determines how skilled they can become at any pursuit. Potential glows faintly in a person's eyes and can be measured by specialized Seers. The more Potential you have, the greater your capacity for excellence in battle, magic, art, or intellect.
+In the town of Leadville, Colorado, 1879, gravity is not constant. People called "Heavies" can increase or decrease the weight of objects - and themselves. The more weight you can control, the more powerful you are. Mining companies pay fortunes for Heavies who can lighten ore for transport, or make drilling equipment heavy enough to break through bedrock.
 
-The controversial practice of Potential Trading has made Valdren the wealthiest kingdom in the world. The ultra-rich can purchase Potential from the desperate poor, becoming superhuman in their abilities while the sellers fade into mediocrity. The poor trade their futures for immediate survival.
+The twist: EVERYONE has a "weight limit" - the maximum weight they can affect in their lifetime. Once reached, they can never use their power again. Many Heavies spend their entire lives hovering at their limit, terrified to use their gift.
 
 ### Main Character
-**CIRA VOSS** - A 19-year-old Seer apprentice who can measure Potential but has almost none herself. She's resigned to a life of mediocrity until she discovers she has an extremely rare ability: she can SEE Potential transfers happening - even the illegal black market ones that happen in shadow. When she witnesses a noble murdering a family to steal their Potential (a practice called "bleeding"), she becomes the only person who can expose the kingdom's darkest secret.
+**MAREN COLE** - A 28-year-old former Heavy whose brother was the most powerful in the territory - until he reached his limit and committed suicide rather than live as an ordinary man. She carries his final "weight" (a railroad spike he was manipulating when he died) fused to her palm. She's learned to hide her ability entirely, working as a blacksmith. When a mine collapse traps 200 workers, she's the only one who can save them - but using her power will cost her everything.
 
 ### The Conflict
-The King himself built his empire on "Blood Potential" - murdering citizens to absorb their Potential. He appears to have centuries of life remaining because of it. Cira must navigate a world where the powerful buy and sell human potential, facing the question: if everyone traded their Potential away, would humanity eventually become... nothing?
+The mine owner refuses to pay for a proper rescue, planning to let the workers die to avoid liability. Maren must decide: use her power to save them and lose her ability forever, or walk away and let them die. But there's a deeper secret - her brother's "suicide" was actually murder. He was killed because he was about to expose that the mining companies have been deliberately causing collapses to collect insurance. Now the same people who killed him are watching her.
 
-### Unique Elements
-- Potential appears as colored light in the eyes (everyone's color is different based on their nature)
-- The act of trading Potential is physically painful and leaves "ghost shadows" of the donor's last emotions
-- There's a resistance movement called "The Hollow" - people who sold all their Potential and became walking husks that can still feel but not achieve anything
-- Potential cannot be created, only transferred - meaning the total Potential in the world is decreasing as the wealthy horde it
+### Unique Magic System
+- Heavies can make things heavier or lighter, but every use counts against their lifetime limit
+- The closer to their limit, the more physically painful using their power becomes
+- At the limit, a Heavy becomes "null" - completely normal, no ability whatsoever
+- Some Heavies sell their remaining weight to others (creating incredibly powerful but dying Heavies)
+- The visual effect shows as a faint distortion around affected objects
 
 ### Themes
-- Class inequality as literal life-stealing
-- The cost of "optimization" and enhancement
-- What makes us human - our achievements or our potential?
+- The cost of power and what we sacrifice for it
+- Class struggle (mining companies vs workers)
+- What makes us special - our abilities or our choices?
 
-### Word Count Target
-Full novel - 80,000-100,000 words
+### Research Notes
+Searched: "gravity manipulation western fantasy" - found generic Western fantasy, no specific matches for weight/gravity trading systems. This concept appears original.
 
 ---
 
-## Research Notes
-Searched: "potential trading magic system fantasy" - found generic isekai/trading system novels, not similar concept. This appears original.
+## Word Count Target
+Novel - 80,000-95,000 words
+
+---
+
+*Research completed: [timestamp] - No direct matches found in initial searches
