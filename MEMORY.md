@@ -1,5 +1,40 @@
-# Session Memory - April 1, 2026
+# Session Memory - April 2, 2026
 
+## Stories Project - COMPLETE
+- Story 1 (Pepper): 48 letters total (Ma 1-24 + Joey 1-24)
+- Location: /root/.openclaw/workspace/stories/
+
+## Story 2: THE FAIR'S LIGHT (In Progress)
+- World's Columbian Exposition, Chicago 1893
+- Outline saved: /root/.openclaw/workspace/stories/STORY2-OUTLINE.md
+- Just Eleanor's letters (to grandmother)
+- 24 letters, 850-950 words each
+
+### Characters
+- BASIL CRAIN — 32, inventor
+- ELEANOR VANCE — 24, daughter of steel magnate
+- GRANDFATHER AUGUSTUS VANCE — 72
+- GRANDMOTHER CLARA VANCE — bedridden
+- MR. HARRISON VANCE — father
+- MRS. CATHERINE VANCE — mother
+- VIVIAN PENWORTH — social friend, starts rumors
+- ARTHUR PENWORTH — her husband
+- CONSTANCE BELMONT — shy friend
+
+### Social Circle Plot
+- Vivian and Arthur spread rumors about Eleanor/Basil
+- Arthur tells Harrison, who confronts Eleanor
+- Dad fast-tracks her engagement to Senator's son
+
+### Plot Beats
+- Act 1: Meet at fair
+- Act 2: Engagement, sabotage, rumors
+- Act 3: Basil arrested, maid steals notes, Eleanor recovers from warehouse (damaged)
+- Act 4: Grandfather helps, walks into hearing room after 7 years public absence
+
+---
+
+## Previous Memory (April 1, 2026)
 ## Stories Project - COMPLETE
 - Full collection: 24 Ma letters + 24 Joey letters = 48 stories
 - Location: /root/.openclaw/workspace/stories/
