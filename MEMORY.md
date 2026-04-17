@@ -1,4 +1,21 @@
-# Session Memory - April 14, 2026
+# Session Memory - April 17, 2026
+
+## Pepper Story (Frank DeLuca)
+- **Main Characters:**
+  - Frank DeLuca (nickname: Pepper)
+  - Joey (Frank's brother)
+  - Ma (mother)
+  - PA (father, deceased)
+  - Lucia (Italian resistance, love interest)
+  - The Greek (antagonist)
+- **Story:** 47 letters (24 Ma + 23 Joey), Mailings 1-24
+- **Location:** Italy (war) + Brooklyn (home front)
+- **Drafts:** drafts-v1 (original), drafts-v2 (expanded)
+- **Key elements:** Ledger/book with cipher, tunnel network, resistance
+
+---
+
+## Previous Session - April 14, 2026
 
 ## Video Generation Tools Research
 - Researched Pika, Runway, Kling, Luma for MainStreet Media
