@@ -1,4 +1,46 @@
-# Session Memory - April 2, 2026
+# Session Memory - April 14, 2026
+
+## Video Generation Tools Research
+- Researched Pika, Runway, Kling, Luma for MainStreet Media
+- Pika: max 20s, $8-35/mo, generous free tier
+- Runway: max 16s, $12-76/mo, powerful editing
+- Kling: max 2-3min, $9.99-19.99/mo, best value for 30s videos
+- Luma: max 30s, $29.99-499.99/mo, expensive
+
+### Kling Setup
+- Installed Kling skill from GitHub (justinclark3467-source/Frank-master)
+- Location: ~/.openclaw/workspace/skills/klingai/
+- API Key: AYBtKRpFMAmBG9JADRQhCkf4mBmeFMrm (access key only)
+- Problem: Need full AK/SK pair to generate JWT token
+- API is reachable at api-singapore.klingai.com but returns "token expected 3 parts" error
+- Skill installed and ready - just needs proper credentials
+
+### Remote Browser via Tailscale
+- User has Tailscale installed locally
+- Need user's Tailscale IP to configure remote CDP profile
+- Plan: Run Chrome locally with --remote-debugging-port=9222, connect via Tailscale
+
+## AgentMail
+- API Key saved: am_us_inbox_6947ef7cb2a7ab8201dd2346de18b0cca271931ceedf01e800adccf813a51b55
+- Working, checked inbox - only test messages
+
+---
+
+# Previous Memory - April 11, 2026
+
+## BrowserCat Integration (Just Added)
+- Signed up for free account at browsercat.com
+- API Key: TKDoxTWWufHnPZRcIelcIVzSyfHaKsWz4Vat5DOFIN2yy046e56GxwKEkCTxtKDP
+- Free tier: 1,000 credits/month (~8 hrs browser time)
+- Setup: Python venv at /root/.openclaw/venv with Playwright installed
+- Test script: /root/.openclaw/workspace/browsercat_test.py
+- Docs: /root/.openclaw/workspace/BROWSERCAT.md
+- Note: Got 503 on first test - service may have temporary issues
+
+## AgentMail Inbox
+- mainstreetmedia@agentmail.to
+- 4 old unread messages from April 2 cleaned up
+- After replying, mark messages as read (new rule)
 
 ## Stories Project - COMPLETE
 - Story 1 (Pepper): 48 letters total (Ma 1-24 + Joey 1-24)
@@ -8,8 +50,57 @@
 - World's Columbian Exposition, Chicago 1893
 - Outline saved: /root/.openclaw/workspace/stories/STORY2-OUTLINE.md
 - Just Eleanor's letters (to grandmother)
-- 24 letters, target 1500-1600 words each
-- Letters 1-3 written (1 & 2 in range, 3 is 1759 - needs trimming)
+- 24 letters, target 850-950 words each
+- Letters 1-6 written (1-2 in range, 3 needs trimming still)
+- Letter 4: 889 words
+- Letter 5: 929 words
+- Letter 6: 925 words
+
+### Characters
+- BASIL CRAIN — 32, inventor
+- ELEANOR VANCE — 24, daughter of steel magnate
+- GRANDFATHER AUGUSTUS VANCE — 72
+- GRANDMOTHER CLARA VANCE — bedridden
+- MR. HARRISON VANCE — father
+- MRS. CATHERINE VANCE — mother
+- VIVIAN PENWORTH — social friend, starts rumors
+- ARTHUR PENWORTH — her husband
+- CONSTANCE BELMONT — shy friend
+
+### Social Circle Plot
+- Vivian and Arthur spread rumors about Eleanor/Basil
+- Arthur tells Harrison, who confronts Eleanor
+- Dad fast-tracks her engagement to Senator's son
+
+### Plot Beats
+- Act 1: Meet at fair
+- Act 2: Engagement, sabotage, rumors
+- Act 3: Basil arrested, maid steals notes, Eleanor recovers from warehouse (damaged)
+- Act 4: Grandfather helps, walks into hearing room after 7 years public absence
+
+---
+
+## Story Ideas Folder (Saved)
+- Location: /root/.openclaw/workspace/story-ideas/
+- Idea 1: THE POTENTIAL TRADE - Fantasy, finite life-energy trading
+- Idea 2: THE PAUSE - Sci-fi, civilization in time gaps
+- Idea 3: THE MEMORY KEEPERS - Historical fantasy, ancient Egypt memory injection
+
+## Previous Memory (April 2, 2026)
+
+## Stories Project - COMPLETE
+- Story 1 (Pepper): 48 letters total (Ma 1-24 + Joey 1-24)
+- Location: /root/.openclaw/workspace/stories/
+
+## Story 2: THE FAIR'S LIGHT (In Progress)
+- World's Columbian Exposition, Chicago 1893
+- Outline saved: /root/.openclaw/workspace/stories/STORY2-OUTLINE.md
+- Just Eleanor's letters (to grandmother)
+- 24 letters, target 850-950 words each
+- Letters 1-6 written (1-2 in range, 3 needs trimming still)
+- Letter 4: 889 words
+- Letter 5: 929 words
+- Letter 6: 925 words
 
 ### Characters
 - BASIL CRAIN — 32, inventor
